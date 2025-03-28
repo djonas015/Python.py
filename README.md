@@ -1,2 +1,3 @@
-# Python.py
- Scripts na linguagem python
+# Exercicios-Faculdade.py
+
+Scripts na linguagem python.
